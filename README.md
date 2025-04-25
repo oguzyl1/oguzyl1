@@ -1,3 +1,15 @@
+<h1 align="center">👋 Merhaba, ben Oğuzhan Yıldız</h1>
+<h3 align="center">Java Backend Developer | Spring Boot • React</h3>
+
+<p align="center">
+  Bilgisayar Mühendisliği öğrencisiyim. Java ve Spring Boot üzerine odaklanarak <strong>backend geliştirme</strong> konusunda kendimi geliştiriyorum. Mikroservis mimarisi, RESTful API tasarımı, kimlik doğrulama sistemleri (JWT, HTTP-Only Cookie), veri önbellekleme (Redis) ve SQL veritabanları (PostgreSQL) gibi konularda pratik deneyimim var. Frontend tarafında ise <strong>React.js</strong> ile kullanıcı arayüzleri geliştiriyorum.<br/>
+  Uçtan uca sistemler kurmayı ve yeni teknolojileri öğrenmeyi seviyorum.
+</p>
+
+
+<br clear="both">
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzyl1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
